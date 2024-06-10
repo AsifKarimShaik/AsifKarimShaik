@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asif Karim Shaik</h1>
-<h3 align="center">A passionate Data Engineer, having 4 years of work experience in Python, SQL and in cloud. Currently pursuing my Master degree at University of Connecticut in Business Analytics and Project Management with the specialization in Data Science.</h3>
+<h3 align="center">A passionate Data Engineer, having 5 years of work experience in Python, SQL and in cloud. Currently pursuing my Master degree at University of Connecticut in Business Analytics and Project Management with the specialization in Data Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*tBpl-eS41qcfLe1a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifkarimshaik&label=Profile%20views&color=0e75b6&style=flat" alt="asifkarimshaik" /> </p>
