@@ -6,7 +6,7 @@
 
 - 🌱 I’m completely aiming **to grow as Data Guru, focusing on building robust data processing solutions.**
 
-- 💬 Ask me about **Databases, Machine learning, Time Series Forecasting, Deep Learning, NLP tasks**
+- 💬 Ask me about **Databases, Machine learning, Product Analytics, MMM's, Attribution Modeling, Time Series Forecasting, Deep Learning, NLP tasks**
 
 - 📫 How to reach me **https://www.linkedin.com/in/asifkarimshaik/**
 
